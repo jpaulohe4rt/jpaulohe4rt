@@ -2,7 +2,7 @@
 
 My name  is  João  Paulo. Software Engineering Student at the Universidade de Brasília and member the He4rt Devs community.
 
-I live in Brasilia, Brazil and I am 18 years old.
+I live in Brasilia, Brazil and I have 18 years old.
 
 # Stack 💻
 
