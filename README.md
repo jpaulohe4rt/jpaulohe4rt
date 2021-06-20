@@ -1,4 +1,4 @@
-# Hi everyone 👋🏽
+# Hi everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 My name  is  João  Paulo. Software Engineering Student at the Universidade de Brasília and member the He4rt Devs community.
 
@@ -14,6 +14,7 @@ I live in Brasilia, Brazil and I have 19 years old.
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 # Check my status:
