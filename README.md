@@ -1,8 +1,7 @@
 # Hi everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-My name  is  João  Paulo. Software Engineering Student at the Universidade de Brasília and member the He4rt Devs community.
-
-I live in Brasilia, Brazil and I have 19 years old.
+My name is João Paulo, 20yo. Software Engineering Student at the Universidade de Brasília and member the He4rt Devs community.
+I live in Brasilia, Brazil.
 
 # Stack 💻
 
