@@ -1,4 +1,4 @@
-# Hi everyone <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# Hi ![](https://komarev.com/ghpvc/?username=jpaulohe4rt) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 My name is João Paulo, 21yo. Software Engineering Student at the Universidade de Brasília.
 I live in Brasilia, Brazil.
@@ -16,7 +16,7 @@ I live in Brasilia, Brazil.
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-# Check my status:
+# Check my status: 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jpaulohe4rt&show_icons=true&theme=white" alt="Status João Paulo"/>
