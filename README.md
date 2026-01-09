@@ -1,6 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=jpaulohe4rt)
 
-I'm **João Paulo**, 23 years old, a Software Engineering student at the **University of Brasília (UnB)**.
+I'm **João Paulo**, 24 years old, a Software Engineering student at the **University of Brasília (UnB)**.
 
 ## 🚀 Tech Stack
 
