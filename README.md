@@ -14,13 +14,3 @@ I'm **João Paulo**, 24 years old, a Software Engineering student at the **Unive
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpaulohe4rt&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaulohe4rt&layout=compact" alt="Top Languages" />
-</p>
